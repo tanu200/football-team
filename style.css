@@ -52,3 +52,36 @@ body{
     padding: 5px 10px;
     color: #ffffff;
 }
+.div1{
+    display: flex;
+
+}
+.div2{
+    display: flex;
+}
+.div3{
+    display: flex;
+}
+.div4{
+    display: flex;
+}
+#middle-area p{
+    color: gray;
+}
+#middle-area{
+    background-color: #FAFAFA;
+}
+.banner-area a{
+    text-decoration: none;
+    background-color:#E02C6D ;
+    color: #FAFAFA;
+    padding: 2px 10px;
+
+}
+
+  
+}
+.class2{
+    box-shadow: 10px 10px 10px gray;
+    margin: 5px;
+}
